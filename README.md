@@ -1,3 +1,3 @@
 <br />
 
-[![Flairings's github stats](https://github-readme-stats.vercel.app/api?username=Flairings&show_icons=true&theme=radical)](https://twitter.com/FlairingsXD)
+[![Flairings's github stats](https://github-readme-stats.vercel.app/api?username=Flairings&show_icons=true&theme=dark)](https://twitter.com/FlairingsXD)
