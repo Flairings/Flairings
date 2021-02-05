@@ -1,11 +1,9 @@
 ## Flairings
-hello donny, most of my projects are private, but for the ones that are public.
+hello donnys, most of my projects are private, but for the ones that are public.
 you have permission to use under the specified Licence, all i ask is you star the project if using.
 
 ### Contact
 <a href="https://flairings.agency/">flairings.agency</a>
-
-### Tooling
 
 #### Tools
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
