@@ -1,6 +1,7 @@
 ## Flairings
 hello donnys, most of my projects are private, but for the ones that are public.
-you have permission to use under the specified Licence, all i ask is you star the project if using.
+you have permission to use under the specified licence
+all i ask is you star the project if using.
 
 ### Contact
 <a href="https://flairings.agency/">flairings.agency</a>
